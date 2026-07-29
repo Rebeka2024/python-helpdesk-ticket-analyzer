@@ -24,3 +24,13 @@ The goal is to demonstrate how data analysis can help IT teams improve troublesh
 - Problem Solving
 
 ## Example Results
+IT Help Desk Support Report
+
+Total Tickets Analyzed:
+10
+
+Average Resolution Time:
+3.32 hours
+
+Most Common Issue:
+Network Issue
