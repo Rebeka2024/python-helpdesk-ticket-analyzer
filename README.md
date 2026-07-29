@@ -34,3 +34,7 @@ Average Resolution Time:
 
 Most Common Issue:
 Network Issue
+
+## About
+
+Created by Rebeka Nyambati as part of my technical portfolio to demonstrate programming, IT support, and data analysis skills.
