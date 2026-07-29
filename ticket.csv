@@ -1,0 +1,11 @@
+Ticket_ID,Category,Priority,Resolution_Time_Hours,Status
+001,Password Reset,Low,0.25,Closed
+002,Network Issue,High,3,Closed
+003,Software Installation,Medium,1.5,Closed
+004,Email Problem,Medium,2,Closed
+005,Network Issue,High,5,Closed
+006,Hardware Failure,Critical,8,Open
+007,Password Reset,Low,0.5,Closed
+008,Software Error,High,4,Closed
+009,Email Problem,Medium,1,Closed
+010,Hardware Failure,Critical,10,Open
